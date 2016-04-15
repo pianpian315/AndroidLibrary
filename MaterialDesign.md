@@ -452,6 +452,9 @@ https://github.com/Freelander/Android_Data
 
 **工具**
 
+material-theme-jetbrains
+https://github.com/ChrisRM/material-theme-jetbrains
+
 android-material-design-icon-generator-plugin
 https://github.com/konifar/android-material-design-icon-generator-plugin
 
