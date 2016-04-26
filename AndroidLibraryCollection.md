@@ -58,6 +58,9 @@ https://github.com/square/dagger
 2、butterknife
 https://github.com/JakeWharton/butterknife
 
+3、roboguice
+https://github.com/roboguice/roboguice
+
 **五、ORM**
 
 1、realm
