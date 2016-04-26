@@ -176,3 +176,15 @@ https://github.com/rovo89/Xposed
 
 1、DiskLruCache
 https://github.com/JakeWharton/DiskLruCache
+
+**十五、二维码**
+
+1、zxing
+https://github.com/zxing/zxing
+
+**十六、图表**
+
+1、MPAndroidChart
+https://github.com/PhilJay/MPAndroidChart
+
+
